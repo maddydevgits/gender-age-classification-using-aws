@@ -2,8 +2,9 @@
 Gender and Age Classification using AWS
 
 # Softwares
-1. VS Code
-2. Python3
+1. VS Code (https://code.visualstudio.com)
+2. Python3 (www.python.org)
+3. git (www.git-scm.com)
 
 # Packages
 1. pip install boto3
